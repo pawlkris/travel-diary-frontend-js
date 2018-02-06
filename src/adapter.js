@@ -1,4 +1,3 @@
-const API_URL = "https://travel-backend-js.herokuapp.com/api";
 
 class Adapter {
   static getTrips(user) {
