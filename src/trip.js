@@ -1,5 +1,3 @@
-const API_URL = "https://travel-backend-js.herokuapp.com/api";
-
 class Trip {
   constructor(data) {
     this.id = data["id"];
