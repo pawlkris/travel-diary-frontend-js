@@ -3,8 +3,6 @@ const API_URL = "https://travel-backend-js.herokuapp.com/api";
 eventId = 0;
 testTrip = {};
 
-console.log("this is excecuting");
-
 class App {
   static resetButtonColors() {
     Array.from(document.getElementsByClassName("trip")).forEach(
