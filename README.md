@@ -1,5 +1,5 @@
 # About
 
-This is a vanilla JS application for documenting trips. It is a single page application with a Rails Backend hosted on Heroku (https://travel-backend-js.herokuapp.com). 
+This is a vanilla JS single page application for documenting trips.
 
 A second version made with React featuring user authentication and can be found here: https://github.com/pawlkris/travel-diary-react
